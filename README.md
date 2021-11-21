@@ -23,3 +23,6 @@ https://devblogs.microsoft.com/dotnet/azure-static-web-apps-with-blazor/
 The **secound tutorial** highlight the step to creating the **todoItem page and .cs file**.
 
 https://docs.microsoft.com/en-us/aspnet/core/tutorials/build-a-blazor-app?view=aspnetcore-6.0&pivots=server
+
+## The website I modify
+https://red-ground-0349aba1e.azurestaticapps.net/
