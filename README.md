@@ -20,4 +20,5 @@ The **first tutorial** is on how to create your **first Blazor app with Azure**.
 https://devblogs.microsoft.com/dotnet/azure-static-web-apps-with-blazor/
 
 The **secound tutorial** highlight the step to creating the **todoItem page and .cs file**.
+
 https://docs.microsoft.com/en-us/aspnet/core/tutorials/build-a-blazor-app?view=aspnetcore-6.0&pivots=server
