@@ -1,6 +1,6 @@
 # Building Blazor Web Application !
 
-Hi! This responistory  is my first attempt to building a blazor Web application using Visual Studio and Microsoft Azure.  The responsitory consisted of a templete that I used from Aaron who provided the first steps to creating a web application. As well as, having the opportunityto modify and enchance it.  
+Hi! This responistory  is my first attempt to building a blazor Web application using Visual Studio and Microsoft Azure.  The responsitory consisted of a templete that I used from Aaron who provided the first steps to creating a web application. As well as, having the opportunity to modify and enchance it.  
 
 
 ## Files and folders
