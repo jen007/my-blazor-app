@@ -6,10 +6,11 @@ Hi! This responistory  is my first attempt to building a blazor Web application 
 ## Files and folders
 
 There are **four folder** that are good to know and they are: 
-Api: The Blazor application will call the Azure Function. 
-Clinet: Contain the Blazor WebAsembly application such as the class pages, and the main pages where it all connect.
-Shared: A class library
-.vscode: The vistual studio code workspace.
+
+- **Api**: The Blazor application will call the Azure Function. 
+- **Clinet**: Contain the Blazor WebAsembly application such as the class pages, and the main pages where it all connect.
+- **Shared**: A class library
+- **.vscode**: The vistual studio code workspace.
 
 ## About the project
 The project is created on the concept that I learn in class as well as the ones that I learn from the tutorials.  The idea is to create a website take can take input from user and provide output.  It design to be user friendly and easy to read. 
