@@ -2,7 +2,7 @@
 
 <PageTitle>Todo</PageTitle>
 
-<h1>Todo (@todos.Count(todo => !todo.IsDone))</h1>
+<h1>Todo (@todos.Count(todo => !todo.IsDone))</h1> 
 
 <ul>
     @foreach (var todo in todos)
@@ -25,9 +25,10 @@
     {
         if (!string.IsNullOrWhiteSpace(newTodo))
         {
-            //comment
+            //add the todoItem with the specified title to the list
+            //clear the text value by setting it to an empty string
             todos.Add(new TodoItem { Title = newTodo });
-            newTodo = string.Empty;
+            newTodo = string.Empty;  
         }
     }
 }
