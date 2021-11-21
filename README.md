@@ -13,7 +13,7 @@ There are **four folder** that are good to know and they are:
 - **.vscode**: The visual studio code workspace.
 
 ## About the project
-The project is created on the concept that I learn in class as well as the ones that I learn from the tutorials.  The idea is to create a website take can take input from user and provide output.  It design to be user friendly and easy to read. 
+The project is created on the concept that I learn in class as well as the ones that I learn from the tutorials.  The idea is to create a website that take input from the user and provide output. It is designed to be user-friendly and easy to read. 
 
 ## Tutorials
 The **first tutorial** is on how to create your **first Blazor app with Azure**.
